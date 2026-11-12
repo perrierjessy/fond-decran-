@@ -1,0 +1,8 @@
+{
+  "entete": "JEUDI 12 NOVEMBRE",
+  "items": [
+    {"cat": "HISTOIRE", "date": "12 nov. 1990", "texte": "Au CERN, Tim Berners-Lee formalise sa proposition du World Wide Web."},
+    {"cat": "ÉCONOMIE", "date": "11 nov. 2026", "texte": "Le CAC 40 gagne 0,66 % à 8 333 pts, porté par la tech et le regain de confiance dans l'IA."},
+    {"cat": "ACTUALITÉ", "date": "12 nov. 2026", "texte": "Russie et Ukraine négocient la paix à Abou Dhabi, sous médiation américaine."}
+  ]
+}
