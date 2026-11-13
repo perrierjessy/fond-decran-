@@ -1,8 +1,8 @@
 {
-  "entete": "JEUDI 12 NOVEMBRE",
+  "entete": "VENDREDI 13 NOVEMBRE",
   "items": [
-    {"cat": "HISTOIRE", "date": "12 nov. 1990", "texte": "Au CERN, Tim Berners-Lee formalise sa proposition du World Wide Web."},
-    {"cat": "ÉCONOMIE", "date": "11 nov. 2026", "texte": "Le CAC 40 gagne 0,66 % à 8 333 pts, porté par la tech et le regain de confiance dans l'IA."},
-    {"cat": "ACTUALITÉ", "date": "12 nov. 2026", "texte": "Russie et Ukraine négocient la paix à Abou Dhabi, sous médiation américaine."}
+    {"cat": "HISTOIRE", "date": "13 nov. 1985", "texte": "En Colombie, l'éruption du Nevado del Ruiz ensevelit la ville d'Armero sous la boue : 23 000 morts."},
+    {"cat": "ÉCONOMIE", "date": "12 nov. 2026", "texte": "Le Stoxx 600 clôture à un record de 664,01 pts et le CAC 40 gagne 0,34 % à 8 361 pts."},
+    {"cat": "ACTUALITÉ", "date": "12 nov. 2026", "texte": "Jensen Huang quitte la direction de Nvidia après des révélations sur sa vie privée."}
   ]
 }
