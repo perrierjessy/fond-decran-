@@ -1,8 +1,8 @@
 {
-  "entete": "VENDREDI 13 NOVEMBRE",
+  "entete": "SAMEDI 14 NOVEMBRE",
   "items": [
-    {"cat": "HISTOIRE", "date": "13 nov. 1985", "texte": "En Colombie, l'éruption du Nevado del Ruiz ensevelit la ville d'Armero sous la boue : 23 000 morts."},
-    {"cat": "ÉCONOMIE", "date": "12 nov. 2026", "texte": "Le Stoxx 600 clôture à un record de 664,01 pts et le CAC 40 gagne 0,34 % à 8 361 pts."},
-    {"cat": "ACTUALITÉ", "date": "12 nov. 2026", "texte": "Jensen Huang quitte la direction de Nvidia après des révélations sur sa vie privée."}
+    {"cat": "HISTOIRE", "date": "14 nov. 1888", "texte": "Le président Sadi Carnot inaugure à Paris l'Institut Pasteur, premier institut de recherche de ce type."},
+    {"cat": "ÉCONOMIE", "date": "13 nov. 2026", "texte": "Le CAC 40 termine à 8 368,91 pts (+0,09 %), freiné par le recul des semi-conducteurs après Nvidia."},
+    {"cat": "ACTUALITÉ", "date": "14 nov. 2026", "texte": "Acte V contre la vie chère : 70 000 policiers et gendarmes mobilisés pour une cinquantaine de défilés."}
   ]
 }
