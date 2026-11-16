@@ -1,20 +1,20 @@
 {
-  "entete": "DIMANCHE 15 NOVEMBRE",
+  "entete": "LUNDI 16 NOVEMBRE",
   "items": [
     {
       "cat": "HISTOIRE",
-      "date": "15 nov. 1988",
-      "texte": "À Alger, Yasser Arafat proclame l'État de Palestine devant le Conseil national palestinien."
+      "date": "16 nov. 1945",
+      "texte": "À Londres, une conférence des Nations unies adopte l'acte constitutif fondant l'UNESCO."
     },
     {
       "cat": "ÉCONOMIE",
-      "date": "13 nov. 2026",
-      "texte": "Wall Street finit en ordre dispersé, le Nasdaq recule de 0,91 % sous l'effet de Nvidia (-2,01 %)."
+      "date": "16 nov. 2026",
+      "texte": "Le PIB du Japon recule de 0,02 % au 3e trimestre, sa première contraction en quatre trimestres."
     },
     {
       "cat": "ACTUALITÉ",
-      "date": "14 nov. 2026",
-      "texte": "Acte V contre la vie chère : 106 000 manifestants selon l'Intérieur, 200 000 selon les organisateurs."
+      "date": "15 nov. 2026",
+      "texte": "Au Cap-Vert, le président sortant José María Neves est réélu au premier tour avec 63,8 % des voix."
     }
   ]
 }
