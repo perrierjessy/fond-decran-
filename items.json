@@ -1,20 +1,20 @@
 {
-  "entete": "LUNDI 16 NOVEMBRE",
+  "entete": "MARDI 17 NOVEMBRE",
   "items": [
     {
       "cat": "HISTOIRE",
-      "date": "16 nov. 1945",
-      "texte": "À Londres, une conférence des Nations unies adopte l'acte constitutif fondant l'UNESCO."
+      "date": "17 nov. 1869",
+      "texte": "Le canal de Suez est inauguré en Égypte, reliant la Méditerranée à la mer Rouge après dix ans de travaux."
     },
     {
       "cat": "ÉCONOMIE",
       "date": "16 nov. 2026",
-      "texte": "Le PIB du Japon recule de 0,02 % au 3e trimestre, sa première contraction en quatre trimestres."
+      "texte": "La Bourse de Taïwan s'effondre de 6,03 % et Séoul de 3,6 %, plombées par la tourmente autour de Nvidia."
     },
     {
       "cat": "ACTUALITÉ",
-      "date": "15 nov. 2026",
-      "texte": "Au Cap-Vert, le président sortant José María Neves est réélu au premier tour avec 63,8 % des voix."
+      "date": "17 nov. 2026",
+      "texte": "Grève pour les salaires dans la fonction publique, à la SNCF et à l'école, 179 actions selon la CGT."
     }
   ]
 }
