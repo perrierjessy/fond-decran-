@@ -1,20 +1,20 @@
 {
-  "entete": "MARDI 17 NOVEMBRE",
+  "entete": "MERCREDI 18 NOVEMBRE",
   "items": [
     {
       "cat": "HISTOIRE",
-      "date": "17 nov. 1869",
-      "texte": "Le canal de Suez est inauguré en Égypte, reliant la Méditerranée à la mer Rouge après dix ans de travaux."
+      "date": "18 nov. 1918",
+      "texte": "La Lettonie proclame son indépendance à Riga, une semaine après l'armistice de la Grande Guerre."
     },
     {
       "cat": "ÉCONOMIE",
-      "date": "16 nov. 2026",
-      "texte": "La Bourse de Taïwan s'effondre de 6,03 % et Séoul de 3,6 %, plombées par la tourmente autour de Nvidia."
+      "date": "17 nov. 2026",
+      "texte": "Le CAC 40 recule de 1,62 % à 8 217 points, plombé par le luxe et la tech avant les résultats de Nvidia."
     },
     {
       "cat": "ACTUALITÉ",
       "date": "17 nov. 2026",
-      "texte": "Grève pour les salaires dans la fonction publique, à la SNCF et à l'école, 179 actions selon la CGT."
+      "texte": "Les États-Unis frappent un site de missiles iranien sur l'île de Qeshm après une attaque contre Bahreïn."
     }
   ]
 }
