@@ -1,20 +1,20 @@
 {
-  "entete": "MERCREDI 18 NOVEMBRE",
+  "entete": "JEUDI 19 NOVEMBRE",
   "items": [
     {
       "cat": "HISTOIRE",
-      "date": "18 nov. 1918",
-      "texte": "La Lettonie proclame son indépendance à Riga, une semaine après l'armistice de la Grande Guerre."
+      "date": "19 nov. 1977",
+      "texte": "Anouar el-Sadate atterrit en Israël, premier dirigeant arabe à s'y rendre en visite officielle."
     },
     {
       "cat": "ÉCONOMIE",
-      "date": "17 nov. 2026",
-      "texte": "Le CAC 40 recule de 1,62 % à 8 217 points, plombé par le luxe et la tech avant les résultats de Nvidia."
+      "date": "18 nov. 2026",
+      "texte": "Le CAC 40 cède 0,85 % à 8 147 points malgré des résultats de Nvidia supérieurs aux attentes."
     },
     {
       "cat": "ACTUALITÉ",
-      "date": "17 nov. 2026",
-      "texte": "Les États-Unis frappent un site de missiles iranien sur l'île de Qeshm après une attaque contre Bahreïn."
+      "date": "19 nov. 2026",
+      "texte": "Xi Jinping, Donald Trump et Vladimir Poutine se réunissent à Shenzhen pour un sommet trilatéral."
     }
   ]
 }
