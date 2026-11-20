@@ -1,20 +1,20 @@
 {
-  "entete": "JEUDI 19 NOVEMBRE",
+  "entete": "VENDREDI 20 NOVEMBRE",
   "items": [
     {
       "cat": "HISTOIRE",
-      "date": "19 nov. 1977",
-      "texte": "Anouar el-Sadate atterrit en Israël, premier dirigeant arabe à s'y rendre en visite officielle."
+      "date": "20 nov. 1910",
+      "texte": "Francisco Madero appelle à l'insurrection contre Porfirio Díaz, début de la Révolution mexicaine."
     },
     {
       "cat": "ÉCONOMIE",
-      "date": "18 nov. 2026",
-      "texte": "Le CAC 40 cède 0,85 % à 8 147 points malgré des résultats de Nvidia supérieurs aux attentes."
+      "date": "19 nov. 2026",
+      "texte": "Anthropic gagne 17 % pour son premier jour au Nasdaq et clôture à 97,17 dollars par action."
     },
     {
       "cat": "ACTUALITÉ",
       "date": "19 nov. 2026",
-      "texte": "Xi Jinping, Donald Trump et Vladimir Poutine se réunissent à Shenzhen pour un sommet trilatéral."
+      "texte": "La Cour internationale de justice juge que la Birmanie a commis un génocide contre les Rohingyas."
     }
   ]
 }
