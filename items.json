@@ -1,20 +1,20 @@
 {
-  "entete": "VENDREDI 20 NOVEMBRE",
+  "entete": "SAMEDI 21 NOVEMBRE",
   "items": [
     {
       "cat": "HISTOIRE",
-      "date": "20 nov. 1910",
-      "texte": "Francisco Madero appelle à l'insurrection contre Porfirio Díaz, début de la Révolution mexicaine."
+      "date": "21 nov. 1783",
+      "texte": "Pilâtre de Rozier et le marquis d'Arlandes réalisent à Paris le premier vol humain en montgolfière."
     },
     {
       "cat": "ÉCONOMIE",
-      "date": "19 nov. 2026",
-      "texte": "Anthropic gagne 17 % pour son premier jour au Nasdaq et clôture à 97,17 dollars par action."
+      "date": "20 nov. 2026",
+      "texte": "Le CAC 40 recule de 1,89 % à 7 928 points, sous les 8 000, et perd plus de 5 % sur la semaine."
     },
     {
       "cat": "ACTUALITÉ",
-      "date": "19 nov. 2026",
-      "texte": "La Cour internationale de justice juge que la Birmanie a commis un génocide contre les Rohingyas."
+      "date": "21 nov. 2026",
+      "texte": "Syndicats et Gilets jaunes manifestent en France, 70 000 policiers et gendarmes sont mobilisés."
     }
   ]
 }
